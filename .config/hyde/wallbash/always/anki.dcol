@@ -1,0 +1,16 @@
+/home/$USER/.local/share/Anki2/addons21/688199788/themes/wallbash.json|${WALLBASH_SCRIPTS}/anki.sh
+{
+    "colors": {
+        "CANVAS": ["Background", "#<wallbash_pry1>", "#<wallbash_pry1>", ["--canvas", "--bs-body-bg"]],
+        "CANVAS_ELEVATED": ["Review", "#<wallbash_pry1>", "#<wallbash_pry1>", "--canvas-elevated"],
+        "CANVAS_GLASS": ["Background (transparent text surface)", "#<wallbash_pry1>66", "#<wallbash_pry1>66", "--canvas-glass"],
+        "FG": ["Text", "#<wallbash_txt1>", "#<wallbash_txt1>", ["--fg", "--bs-body-color"]],
+        "FG_SUBTLE": ["Text (subtle)", "#<wallbash_txt4>", "#<wallbash_txt4>", "--fg-subtle"],
+        "BUTTON_BG": ["Button background", "#<wallbash_pry1>", "#<wallbash_pry1>", "--button-bg"],
+        "ACCENT_CARD": ["Card mode", "#89b4fa", "#89b4fa", "--accent-card"]
+    },
+    "version": {
+        "major": 3,
+        "minor": 0
+    }
+}

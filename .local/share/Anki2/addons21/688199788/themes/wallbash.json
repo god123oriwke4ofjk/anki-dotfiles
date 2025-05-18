@@ -1,0 +1,15 @@
+{
+    "colors": {
+        "CANVAS": ["Background", "#05010C", "#05010C", ["--canvas", "--bs-body-bg"]],
+        "CANVAS_ELEVATED": ["Review", "#05010C", "#05010C", "--canvas-elevated"],
+        "CANVAS_GLASS": ["Background (transparent text surface)", "#05010C66", "#05010C66", "--canvas-glass"],
+        "FG": ["Text", "#FFFFFF", "#FFFFFF", ["--fg", "--bs-body-color"]],
+        "FG_SUBTLE": ["Text (subtle)", "#C7CAC2", "#C7CAC2", "--fg-subtle"],
+        "BUTTON_BG": ["Button background", "#05010C", "#05010C", "--button-bg"],
+        "ACCENT_CARD": ["Card mode", "#89b4fa", "#89b4fa", "--accent-card"]
+    },
+    "version": {
+        "major": 3,
+        "minor": 0
+    }
+}
